@@ -8,6 +8,9 @@ console.log(rickshawVara);
 
 var age = 23;
 console.log(age);
+
+var bananaPrice = 10;
+console.log(bananaPrice);
  
 
 // string
