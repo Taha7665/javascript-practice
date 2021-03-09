@@ -17,3 +17,5 @@ console.log(bananaPrice);
 
 var name = "kolim";
 console.log(name);
+
+simple js
